@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Учеба\arrays\Shift\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Shift.vcxproj -> D:\Учеба\arrays\x64\Debug\Shift.exe
